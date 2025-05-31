@@ -414,10 +414,10 @@ app.include_router(quantum_router)
 
 # Revolutionary Main Application Runner
 if __name__ == "__main__":
-    print("🌟 Launching Quantum HR Intelligence Platform...")
-    print("🧠 Neural networks initializing...")
-    print("🚀 Revolutionary API starting on http://localhost:8000")
-    print("📊 Quantum docs available at http://localhost:8000/quantum-docs")
+    print("Launching Quantum HR Intelligence Platform...")
+    print("Neural networks initializing...")
+    print("Revolutionary API starting on http://localhost:8000")
+    print("Quantum docs available at http://localhost:8000/docs")
     
     uvicorn.run(
         "quantum_api:app",
