@@ -185,15 +185,15 @@ async def quantum_batch_employee_analysis(request: BatchAnalysisRequest):
     """
     try:
         logger.info(f"Processing quantum batch analysis for {len(request.employees)} employees")
-        
-        # Limit batch size to prevent timeouts
+          # Limit batch size to prevent timeouts
         max_batch_size = 10
         if len(request.employees) > max_batch_size:
             raise HTTPException(
                 status_code=400, 
                 detail=f"Batch size limited to {max_batch_size} employees for optimal performance"
             )
-          batch_results = []
+        
+        batch_results = []
         
         for i, employee in enumerate(request.employees):
             try:
