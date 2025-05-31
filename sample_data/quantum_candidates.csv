@@ -1,0 +1,1101 @@
+candidate_id,name,email,years_experience,neural_match_score,behavioral_dna_score,market_intelligence_score,quantum_recommendation,competitive_positioning,predicted_performance,cultural_fit_score,innovation_potential,primary_skills,cloud_skills,data_skills,soft_skills,psychological_profile,resume_summary
+QC001,Maria Taylor,maria.taylor@email.com,0.9,81.7,82.9,87.5,Highly Recommended,Top 15%,90.2,81.8,88.2,"['C++', 'Angular', 'JavaScript', 'Django', 'Java']","['Docker', 'Terraform', 'Jenkins']","['PyTorch', 'TensorFlow']","['Leadership', 'Innovation', 'Adaptability', 'Communication', 'Problem Solving']","{'Openness': 58.1, 'Conscientiousness': 69.2, 'Extraversion': 78.5, 'Agreeableness': 73.2, 'Neuroticism': 71.7}","
+        MARIA TAYLOR
+        Senior Software Engineer
+        Email: maria.taylor@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 0.9+ years of experience in full-stack development.
+        Specializing in C++, Angular, JavaScript. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: C++, Angular, JavaScript, Django, Java
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC002,Michael Clark,michael.clark@email.com,0.5,79.2,78.7,68.0,Recommended,Top 30%,77.8,69.1,78.2,"['Python', 'C++', 'JavaScript']","['Jenkins', 'Azure', 'Kubernetes']","['NumPy', 'Pandas']","['Problem Solving', 'Leadership', 'Adaptability']","{'Openness': 73.9, 'Conscientiousness': 63.4, 'Extraversion': 62.8, 'Agreeableness': 62.0, 'Neuroticism': 69.2}","
+        MICHAEL CLARK
+        Senior Software Engineer
+        Email: michael.clark@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 0.5+ years of experience in full-stack development.
+        Specializing in Python, C++, JavaScript. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Python, C++, JavaScript
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC003,David Brown,david.brown@email.com,5.2,91.5,82.2,79.0,Highly Recommended,Top 15%,75.3,57.2,85.9,"['Angular', 'Java', 'Python', 'Node.js', 'Flask']","['Kubernetes', 'Jenkins', 'Docker']","['PyTorch', 'Pandas', 'PostgreSQL']","['Teamwork', 'Communication', 'Leadership', 'Problem Solving', 'Innovation']","{'Openness': 92.7, 'Conscientiousness': 62.9, 'Extraversion': 73.4, 'Agreeableness': 61.7, 'Neuroticism': 67.6}","
+        DAVID BROWN
+        Senior Software Engineer
+        Email: david.brown@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.2+ years of experience in full-stack development.
+        Specializing in Angular, Java, Python. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Angular, Java, Python, Node.js, Flask
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC004,Jessica Taylor,jessica.taylor@email.com,4.3,73.9,77.8,69.5,Recommended,Top 30%,68.4,65.5,68.8,"['React', 'Angular', 'Java', 'Node.js', 'Django']","['Kubernetes', 'AWS', 'Docker']","['PyTorch', 'TensorFlow', 'Redis']","['Adaptability', 'Innovation', 'Leadership']","{'Openness': 63.0, 'Conscientiousness': 64.8, 'Extraversion': 63.0, 'Agreeableness': 97.1, 'Neuroticism': 69.0}","
+        JESSICA TAYLOR
+        Senior Software Engineer
+        Email: jessica.taylor@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 4.3+ years of experience in full-stack development.
+        Specializing in React, Angular, Java. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: React, Angular, Java, Node.js, Django
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC005,Lisa Harris,lisa.harris@email.com,3.9,93.0,90.5,81.8,Highly Recommended,Top 15%,83.7,106.6,83.4,"['Django', 'Flask', 'Angular', 'C++']","['Azure', 'Terraform']","['Pandas', 'TensorFlow', 'SQL']","['Leadership', 'Problem Solving', 'Teamwork', 'Innovation']","{'Openness': 57.2, 'Conscientiousness': 71.1, 'Extraversion': 93.9, 'Agreeableness': 94.3, 'Neuroticism': 91.0}","
+        LISA HARRIS
+        Senior Software Engineer
+        Email: lisa.harris@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 3.9+ years of experience in full-stack development.
+        Specializing in Django, Flask, Angular. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Django, Flask, Angular, C++
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC006,Maria Taylor,maria.taylor@email.com,3.5,64.0,76.8,73.8,Recommended,Top 35%,76.0,80.4,65.6,"['Node.js', 'Python', 'Vue.js', 'Flask', 'Django', 'Java']","['AWS', 'Docker', 'Google Cloud', 'Kubernetes']","['Redis', 'SQL', 'MongoDB']","['Problem Solving', 'Adaptability', 'Innovation']","{'Openness': 82.9, 'Conscientiousness': 56.4, 'Extraversion': 57.3, 'Agreeableness': 83.3, 'Neuroticism': 85.9}","
+        MARIA TAYLOR
+        Senior Software Engineer
+        Email: maria.taylor@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 3.5+ years of experience in full-stack development.
+        Specializing in Node.js, Python, Vue.js. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Node.js, Python, Vue.js, Flask, Django, Java
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC007,Stephanie Lee,stephanie.lee@email.com,2.6,86.6,74.5,86.3,Highly Recommended,Top 20%,77.6,80.0,83.8,"['Node.js', 'Angular', 'C++', 'Django', 'Vue.js']","['Jenkins', 'AWS']","['NumPy', 'TensorFlow', 'PostgreSQL', 'MongoDB', 'Elasticsearch']","['Teamwork', 'Innovation', 'Communication']","{'Openness': 58.5, 'Conscientiousness': 79.7, 'Extraversion': 65.1, 'Agreeableness': 42.3, 'Neuroticism': 70.0}","
+        STEPHANIE LEE
+        Senior Software Engineer
+        Email: stephanie.lee@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 2.6+ years of experience in full-stack development.
+        Specializing in Node.js, Angular, C++. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Node.js, Angular, C++, Django, Vue.js
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC008,Jessica Garcia,jessica.garcia@email.com,5.9,67.9,73.6,76.2,Recommended,Top 30%,78.6,67.9,55.5,"['Django', 'Java', 'React', 'C++']","['Google Cloud', 'Kubernetes', 'AWS', 'Jenkins']","['SQL', 'Elasticsearch', 'PyTorch']","['Teamwork', 'Adaptability', 'Problem Solving', 'Leadership', 'Innovation']","{'Openness': 80.1, 'Conscientiousness': 99.1, 'Extraversion': 89.3, 'Agreeableness': 100, 'Neuroticism': 89.2}","
+        JESSICA GARCIA
+        Senior Software Engineer
+        Email: jessica.garcia@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.9+ years of experience in full-stack development.
+        Specializing in Django, Java, React. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Django, Java, React, C++
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC009,Emily Rodriguez,emily.rodriguez@email.com,5.2,89.6,96.9,95.8,Neural Highly Recommended,Top 10%,101.8,70.3,64.0,"['Flask', 'Vue.js', 'Python', 'C++', 'Angular']","['Kubernetes', 'Jenkins']","['Redis', 'SQL']","['Leadership', 'Adaptability', 'Problem Solving']","{'Openness': 82.7, 'Conscientiousness': 67.1, 'Extraversion': 59.1, 'Agreeableness': 54.9, 'Neuroticism': 71.3}","
+        EMILY RODRIGUEZ
+        Senior Software Engineer
+        Email: emily.rodriguez@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.2+ years of experience in full-stack development.
+        Specializing in Flask, Vue.js, Python. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Flask, Vue.js, Python, C++, Angular
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC010,David Davis,david.davis@email.com,8.0,62.2,71.7,60.0,Consider,Top 50%,59.7,74.9,60.4,"['Java', 'C++', 'Flask', 'Django', 'Angular']","['Google Cloud', 'AWS', 'Docker']","['TensorFlow', 'PyTorch', 'PostgreSQL', 'Pandas']","['Leadership', 'Adaptability', 'Communication', 'Problem Solving']","{'Openness': 71.9, 'Conscientiousness': 92.9, 'Extraversion': 80.4, 'Agreeableness': 50.5, 'Neuroticism': 84.4}","
+        DAVID DAVIS
+        Senior Software Engineer
+        Email: david.davis@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 8.0+ years of experience in full-stack development.
+        Specializing in Java, C++, Flask. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Java, C++, Flask, Django, Angular
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC011,Stephanie Thompson,stephanie.thompson@email.com,4.0,82.0,84.9,90.3,Highly Recommended,Top 25%,79.7,78.2,86.7,"['React', 'Angular', 'Vue.js', 'Node.js']","['Google Cloud', 'Jenkins']","['TensorFlow', 'Redis', 'PyTorch', 'NumPy']","['Communication', 'Leadership', 'Teamwork', 'Adaptability']","{'Openness': 73.0, 'Conscientiousness': 76.7, 'Extraversion': 100, 'Agreeableness': 76.0, 'Neuroticism': 64.8}","
+        STEPHANIE THOMPSON
+        Senior Software Engineer
+        Email: stephanie.thompson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 4.0+ years of experience in full-stack development.
+        Specializing in React, Angular, Vue.js. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: React, Angular, Vue.js, Node.js
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC012,Emily Brown,emily.brown@email.com,6.2,88.0,90.4,91.2,Highly Recommended,Top 15%,96.0,80.2,71.4,"['Python', 'JavaScript', 'Django', 'C++', 'Flask', 'Vue.js']","['Kubernetes', 'Azure']","['MongoDB', 'NumPy']","['Adaptability', 'Teamwork', 'Communication']","{'Openness': 65.8, 'Conscientiousness': 80.6, 'Extraversion': 95.2, 'Agreeableness': 71.4, 'Neuroticism': 93.7}","
+        EMILY BROWN
+        Senior Software Engineer
+        Email: emily.brown@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 6.2+ years of experience in full-stack development.
+        Specializing in Python, JavaScript, Django. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Python, JavaScript, Django, C++, Flask, Vue.js
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC013,Chris Garcia,chris.garcia@email.com,4.4,63.3,69.0,78.5,Recommended,Top 30%,72.1,87.7,87.4,"['Python', 'JavaScript', 'Java', 'Angular', 'Node.js']","['Google Cloud', 'Azure', 'Jenkins', 'AWS']","['Elasticsearch', 'Redis', 'NumPy', 'PyTorch', 'MongoDB']","['Adaptability', 'Leadership', 'Communication']","{'Openness': 77.4, 'Conscientiousness': 100, 'Extraversion': 77.0, 'Agreeableness': 93.9, 'Neuroticism': 60.2}","
+        CHRIS GARCIA
+        Senior Software Engineer
+        Email: chris.garcia@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 4.4+ years of experience in full-stack development.
+        Specializing in Python, JavaScript, Java. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Python, JavaScript, Java, Angular, Node.js
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC014,Maria Brown,maria.brown@email.com,5.8,85.6,68.3,86.3,Highly Recommended,Top 25%,80.0,79.9,55.8,"['Angular', 'Flask', 'Java', 'Vue.js', 'JavaScript', 'React']","['Docker', 'AWS', 'Azure']","['MongoDB', 'NumPy', 'TensorFlow', 'PostgreSQL']","['Communication', 'Leadership', 'Problem Solving', 'Adaptability']","{'Openness': 64.3, 'Conscientiousness': 73.3, 'Extraversion': 80.1, 'Agreeableness': 75.0, 'Neuroticism': 73.8}","
+        MARIA BROWN
+        Senior Software Engineer
+        Email: maria.brown@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.8+ years of experience in full-stack development.
+        Specializing in Angular, Flask, Java. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Angular, Flask, Java, Vue.js, JavaScript, React
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC015,Jessica Wilson,jessica.wilson@email.com,0.8,63.0,72.0,65.4,Consider,Top 50%,72.2,78.0,65.1,"['Vue.js', 'JavaScript', 'Java']","['Azure', 'Docker', 'Terraform', 'Jenkins']","['PyTorch', 'SQL', 'MongoDB']","['Problem Solving', 'Innovation', 'Leadership', 'Teamwork']","{'Openness': 62.3, 'Conscientiousness': 58.3, 'Extraversion': 82.7, 'Agreeableness': 78.6, 'Neuroticism': 78.5}","
+        JESSICA WILSON
+        Senior Software Engineer
+        Email: jessica.wilson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 0.8+ years of experience in full-stack development.
+        Specializing in Vue.js, JavaScript, Java. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Vue.js, JavaScript, Java
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC016,Daniel Martinez,daniel.martinez@email.com,4.6,70.5,73.0,66.1,Consider,Top 50%,74.5,80.7,75.2,"['Python', 'Django', 'Flask']","['Kubernetes', 'Google Cloud', 'Docker', 'Terraform']","['SQL', 'TensorFlow', 'NumPy', 'Redis']","['Communication', 'Leadership', 'Teamwork', 'Innovation']","{'Openness': 59.6, 'Conscientiousness': 62.7, 'Extraversion': 70.4, 'Agreeableness': 88.8, 'Neuroticism': 70.6}","
+        DANIEL MARTINEZ
+        Senior Software Engineer
+        Email: daniel.martinez@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 4.6+ years of experience in full-stack development.
+        Specializing in Python, Django, Flask. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Python, Django, Flask
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC017,Matthew Lee,matthew.lee@email.com,8.3,82.8,79.2,78.6,Highly Recommended,Top 20%,78.9,86.2,90.0,"['React', 'Java', 'Python']","['Terraform', 'Jenkins', 'Docker', 'Kubernetes']","['Redis', 'Pandas', 'TensorFlow', 'NumPy']","['Innovation', 'Adaptability', 'Teamwork']","{'Openness': 77.3, 'Conscientiousness': 100, 'Extraversion': 75.6, 'Agreeableness': 79.7, 'Neuroticism': 73.7}","
+        MATTHEW LEE
+        Senior Software Engineer
+        Email: matthew.lee@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 8.3+ years of experience in full-stack development.
+        Specializing in React, Java, Python. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: React, Java, Python
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC018,Chris Taylor,chris.taylor@email.com,2.7,91.2,89.9,90.2,Neural Highly Recommended,Top 5%,82.2,79.4,76.3,"['React', 'Java', 'C++', 'Flask', 'Vue.js', 'Django']","['Docker', 'Google Cloud', 'Terraform', 'Kubernetes']","['NumPy', 'MongoDB', 'PyTorch', 'TensorFlow']","['Leadership', 'Innovation', 'Problem Solving', 'Communication', 'Teamwork']","{'Openness': 97.8, 'Conscientiousness': 68.0, 'Extraversion': 66.6, 'Agreeableness': 81.6, 'Neuroticism': 80.3}","
+        CHRIS TAYLOR
+        Senior Software Engineer
+        Email: chris.taylor@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 2.7+ years of experience in full-stack development.
+        Specializing in React, Java, C++. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: React, Java, C++, Flask, Vue.js, Django
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC019,Jessica Davis,jessica.davis@email.com,4.2,83.1,92.9,84.1,Highly Recommended,Top 25%,88.8,88.8,62.0,"['Node.js', 'Flask', 'JavaScript', 'React']","['Jenkins', 'Docker', 'Kubernetes']","['Redis', 'MongoDB', 'PyTorch', 'Elasticsearch']","['Adaptability', 'Problem Solving', 'Innovation']","{'Openness': 59.3, 'Conscientiousness': 75.5, 'Extraversion': 78.0, 'Agreeableness': 77.1, 'Neuroticism': 85.9}","
+        JESSICA DAVIS
+        Senior Software Engineer
+        Email: jessica.davis@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 4.2+ years of experience in full-stack development.
+        Specializing in Node.js, Flask, JavaScript. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Node.js, Flask, JavaScript, React
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC020,Daniel Thompson,daniel.thompson@email.com,5.7,64.7,65.9,68.6,Consider,Average,69.9,80.6,54.2,"['Django', 'Java', 'React', 'Vue.js', 'Flask']","['Google Cloud', 'AWS', 'Kubernetes', 'Docker']","['MongoDB', 'SQL', 'Pandas']","['Adaptability', 'Communication', 'Innovation']","{'Openness': 86.6, 'Conscientiousness': 92.7, 'Extraversion': 66.5, 'Agreeableness': 90.5, 'Neuroticism': 58.6}","
+        DANIEL THOMPSON
+        Senior Software Engineer
+        Email: daniel.thompson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.7+ years of experience in full-stack development.
+        Specializing in Django, Java, React. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Django, Java, React, Vue.js, Flask
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC021,John Harris,john.harris@email.com,1.7,61.6,60.0,66.0,Consider,Top 50%,69.6,90.2,76.7,"['C++', 'Java', 'React', 'Flask', 'Django', 'Python']","['Jenkins', 'Terraform', 'Docker']","['MongoDB', 'Pandas', 'Elasticsearch', 'NumPy', 'TensorFlow']","['Leadership', 'Communication', 'Innovation']","{'Openness': 92.7, 'Conscientiousness': 82.5, 'Extraversion': 78.4, 'Agreeableness': 74.3, 'Neuroticism': 60.3}","
+        JOHN HARRIS
+        Senior Software Engineer
+        Email: john.harris@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 1.7+ years of experience in full-stack development.
+        Specializing in C++, Java, React. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: C++, Java, React, Flask, Django, Python
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC022,Sarah Jackson,sarah.jackson@email.com,5.1,67.3,70.5,70.3,Consider,Average,66.6,56.5,71.9,"['C++', 'Java', 'React', 'Node.js']","['Google Cloud', 'Docker', 'AWS', 'Jenkins']","['Pandas', 'PostgreSQL', 'PyTorch']","['Leadership', 'Innovation', 'Communication']","{'Openness': 64.7, 'Conscientiousness': 84.7, 'Extraversion': 67.4, 'Agreeableness': 92.6, 'Neuroticism': 80.3}","
+        SARAH JACKSON
+        Senior Software Engineer
+        Email: sarah.jackson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.1+ years of experience in full-stack development.
+        Specializing in C++, Java, React. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: C++, Java, React, Node.js
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC023,John Jackson,john.jackson@email.com,5.9,82.8,88.9,75.5,Highly Recommended,Top 20%,90.4,76.8,88.8,"['Vue.js', 'React', 'Django', 'Python']","['Terraform', 'Docker', 'Jenkins', 'AWS']","['SQL', 'NumPy', 'Elasticsearch', 'PostgreSQL']","['Problem Solving', 'Teamwork', 'Communication']","{'Openness': 64.3, 'Conscientiousness': 94.5, 'Extraversion': 94.2, 'Agreeableness': 75.5, 'Neuroticism': 72.9}","
+        JOHN JACKSON
+        Senior Software Engineer
+        Email: john.jackson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.9+ years of experience in full-stack development.
+        Specializing in Vue.js, React, Django. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Vue.js, React, Django, Python
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC024,Lisa Garcia,lisa.garcia@email.com,0.5,100.0,100.0,81.4,Neural Highly Recommended,Top 5%,92.5,71.8,73.8,"['Java', 'C++', 'Node.js', 'Flask']","['Terraform', 'Docker', 'Jenkins', 'AWS']","['Redis', 'Elasticsearch', 'MongoDB', 'PyTorch', 'Pandas']","['Communication', 'Innovation', 'Teamwork', 'Adaptability', 'Problem Solving']","{'Openness': 78.7, 'Conscientiousness': 68.1, 'Extraversion': 86.0, 'Agreeableness': 73.8, 'Neuroticism': 87.2}","
+        LISA GARCIA
+        Senior Software Engineer
+        Email: lisa.garcia@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 0.5+ years of experience in full-stack development.
+        Specializing in Java, C++, Node.js. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Java, C++, Node.js, Flask
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC025,Daniel Thompson,daniel.thompson@email.com,3.9,68.4,83.9,78.7,Recommended,Top 40%,77.3,67.5,55.5,"['React', 'Node.js', 'Django', 'Java']","['Azure', 'Google Cloud']","['PostgreSQL', 'MongoDB', 'TensorFlow']","['Adaptability', 'Communication', 'Innovation', 'Teamwork']","{'Openness': 69.9, 'Conscientiousness': 77.2, 'Extraversion': 64.3, 'Agreeableness': 78.9, 'Neuroticism': 78.1}","
+        DANIEL THOMPSON
+        Senior Software Engineer
+        Email: daniel.thompson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 3.9+ years of experience in full-stack development.
+        Specializing in React, Node.js, Django. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: React, Node.js, Django, Java
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC026,Ashley Johnson,ashley.johnson@email.com,2.7,86.6,93.5,90.8,Neural Highly Recommended,Top 10%,89.6,92.4,90.9,"['C++', 'Angular', 'Flask', 'Django']","['Terraform', 'AWS']","['Elasticsearch', 'PostgreSQL']","['Adaptability', 'Teamwork', 'Communication', 'Leadership']","{'Openness': 66.8, 'Conscientiousness': 70.1, 'Extraversion': 85.3, 'Agreeableness': 74.7, 'Neuroticism': 61.0}","
+        ASHLEY JOHNSON
+        Senior Software Engineer
+        Email: ashley.johnson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 2.7+ years of experience in full-stack development.
+        Specializing in C++, Angular, Flask. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: C++, Angular, Flask, Django
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC027,Chris Lewis,chris.lewis@email.com,0.5,95.8,98.4,89.3,Neural Highly Recommended,Top 5%,103.1,91.5,73.6,"['React', 'C++', 'Vue.js', 'Java']","['AWS', 'Terraform']","['PostgreSQL', 'PyTorch']","['Communication', 'Leadership', 'Teamwork', 'Problem Solving', 'Innovation']","{'Openness': 66.0, 'Conscientiousness': 84.5, 'Extraversion': 64.7, 'Agreeableness': 77.2, 'Neuroticism': 73.2}","
+        CHRIS LEWIS
+        Senior Software Engineer
+        Email: chris.lewis@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 0.5+ years of experience in full-stack development.
+        Specializing in React, C++, Vue.js. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: React, C++, Vue.js, Java
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC028,Alex Brown,alex.brown@email.com,1.1,60.0,65.4,60.0,Consider,Top 50%,57.4,82.2,64.6,"['Vue.js', 'C++', 'JavaScript', 'React', 'Python']","['Terraform', 'AWS', 'Azure']","['PostgreSQL', 'Elasticsearch', 'TensorFlow', 'Redis']","['Teamwork', 'Innovation', 'Leadership', 'Problem Solving', 'Communication']","{'Openness': 55.5, 'Conscientiousness': 74.5, 'Extraversion': 67.4, 'Agreeableness': 55.3, 'Neuroticism': 75.2}","
+        ALEX BROWN
+        Senior Software Engineer
+        Email: alex.brown@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 1.1+ years of experience in full-stack development.
+        Specializing in Vue.js, C++, JavaScript. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Vue.js, C++, JavaScript, React, Python
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC029,David Wilson,david.wilson@email.com,5.7,77.0,71.2,83.3,Recommended,Top 40%,76.2,64.2,77.6,"['Java', 'C++', 'Python', 'JavaScript']","['Docker', 'Google Cloud', 'AWS', 'Terraform']","['PyTorch', 'PostgreSQL']","['Communication', 'Adaptability', 'Innovation', 'Problem Solving']","{'Openness': 64.5, 'Conscientiousness': 81.5, 'Extraversion': 66.8, 'Agreeableness': 69.8, 'Neuroticism': 98.3}","
+        DAVID WILSON
+        Senior Software Engineer
+        Email: david.wilson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.7+ years of experience in full-stack development.
+        Specializing in Java, C++, Python. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Java, C++, Python, JavaScript
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC030,Daniel Johnson,daniel.johnson@email.com,5.5,71.2,91.8,83.1,Highly Recommended,Top 20%,73.2,75.6,61.1,"['Vue.js', 'C++', 'JavaScript', 'Python', 'Django', 'Java']","['Google Cloud', 'Docker', 'AWS', 'Terraform']","['Pandas', 'PostgreSQL', 'Redis', 'TensorFlow']","['Problem Solving', 'Communication', 'Innovation', 'Teamwork']","{'Openness': 81.2, 'Conscientiousness': 81.4, 'Extraversion': 88.7, 'Agreeableness': 86.4, 'Neuroticism': 92.0}","
+        DANIEL JOHNSON
+        Senior Software Engineer
+        Email: daniel.johnson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.5+ years of experience in full-stack development.
+        Specializing in Vue.js, C++, JavaScript. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Vue.js, C++, JavaScript, Python, Django, Java
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC031,Ashley Lewis,ashley.lewis@email.com,2.7,83.1,85.4,84.9,Highly Recommended,Top 25%,76.9,92.0,61.1,"['Vue.js', 'Node.js', 'React', 'Python']","['Jenkins', 'AWS']","['MongoDB', 'TensorFlow', 'PostgreSQL']","['Problem Solving', 'Innovation', 'Teamwork', 'Leadership', 'Communication']","{'Openness': 49.7, 'Conscientiousness': 54.8, 'Extraversion': 83.1, 'Agreeableness': 63.3, 'Neuroticism': 53.5}","
+        ASHLEY LEWIS
+        Senior Software Engineer
+        Email: ashley.lewis@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 2.7+ years of experience in full-stack development.
+        Specializing in Vue.js, Node.js, React. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Vue.js, Node.js, React, Python
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC032,Amanda Davis,amanda.davis@email.com,8.2,78.5,85.2,78.0,Highly Recommended,Top 25%,86.8,71.4,74.5,"['Java', 'JavaScript', 'React', 'Angular', 'Vue.js', 'Python']","['Terraform', 'AWS', 'Kubernetes']","['NumPy', 'PyTorch', 'MongoDB']","['Innovation', 'Teamwork', 'Adaptability', 'Communication']","{'Openness': 99.7, 'Conscientiousness': 68.0, 'Extraversion': 86.7, 'Agreeableness': 81.0, 'Neuroticism': 55.0}","
+        AMANDA DAVIS
+        Senior Software Engineer
+        Email: amanda.davis@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 8.2+ years of experience in full-stack development.
+        Specializing in Java, JavaScript, React. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Java, JavaScript, React, Angular, Vue.js, Python
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC033,Jessica Johnson,jessica.johnson@email.com,1.8,61.3,77.3,69.7,Consider,Top 50%,78.0,83.6,54.2,"['Angular', 'Node.js', 'Vue.js', 'React', 'Java', 'Python']","['AWS', 'Terraform']","['TensorFlow', 'Elasticsearch']","['Communication', 'Innovation', 'Adaptability']","{'Openness': 100, 'Conscientiousness': 52.4, 'Extraversion': 73.2, 'Agreeableness': 78.9, 'Neuroticism': 84.5}","
+        JESSICA JOHNSON
+        Senior Software Engineer
+        Email: jessica.johnson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 1.8+ years of experience in full-stack development.
+        Specializing in Angular, Node.js, Vue.js. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Angular, Node.js, Vue.js, React, Java, Python
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC034,Matthew Jackson,matthew.jackson@email.com,5.4,70.2,83.1,83.2,Recommended,Top 40%,77.8,61.6,87.1,"['Django', 'Python', 'C++', 'Node.js', 'Java', 'JavaScript']","['AWS', 'Google Cloud', 'Docker']","['TensorFlow', 'MongoDB', 'NumPy']","['Problem Solving', 'Adaptability', 'Teamwork', 'Communication', 'Leadership']","{'Openness': 70.3, 'Conscientiousness': 45.0, 'Extraversion': 74.0, 'Agreeableness': 60.6, 'Neuroticism': 64.0}","
+        MATTHEW JACKSON
+        Senior Software Engineer
+        Email: matthew.jackson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.4+ years of experience in full-stack development.
+        Specializing in Django, Python, C++. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Django, Python, C++, Node.js, Java, JavaScript
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC035,Stephanie Garcia,stephanie.garcia@email.com,6.9,68.8,71.7,82.8,Recommended,Top 40%,80.4,57.7,59.8,"['React', 'Vue.js', 'Java']","['AWS', 'Google Cloud']","['PostgreSQL', 'SQL', 'PyTorch', 'Redis']","['Leadership', 'Communication', 'Adaptability', 'Teamwork', 'Problem Solving']","{'Openness': 60.8, 'Conscientiousness': 88.0, 'Extraversion': 86.6, 'Agreeableness': 66.7, 'Neuroticism': 66.3}","
+        STEPHANIE GARCIA
+        Senior Software Engineer
+        Email: stephanie.garcia@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 6.9+ years of experience in full-stack development.
+        Specializing in React, Vue.js, Java. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: React, Vue.js, Java
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC036,Daniel Lewis,daniel.lewis@email.com,1.9,98.5,100.0,97.9,Neural Highly Recommended,Top 10%,94.5,82.4,70.3,"['JavaScript', 'Django', 'Flask', 'Node.js', 'Java', 'C++']","['Jenkins', 'Azure']","['PostgreSQL', 'NumPy', 'Redis', 'Elasticsearch', 'PyTorch']","['Adaptability', 'Teamwork', 'Innovation', 'Leadership']","{'Openness': 54.2, 'Conscientiousness': 58.4, 'Extraversion': 95.8, 'Agreeableness': 63.6, 'Neuroticism': 46.3}","
+        DANIEL LEWIS
+        Senior Software Engineer
+        Email: daniel.lewis@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 1.9+ years of experience in full-stack development.
+        Specializing in JavaScript, Django, Flask. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: JavaScript, Django, Flask, Node.js, Java, C++
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC037,Chris Rodriguez,chris.rodriguez@email.com,5.0,80.3,90.8,85.7,Highly Recommended,Top 25%,77.9,84.0,92.6,"['C++', 'Angular', 'Flask']","['Jenkins', 'Azure']","['Elasticsearch', 'Pandas', 'PyTorch']","['Communication', 'Innovation', 'Problem Solving']","{'Openness': 99.7, 'Conscientiousness': 82.9, 'Extraversion': 68.5, 'Agreeableness': 61.8, 'Neuroticism': 73.2}","
+        CHRIS RODRIGUEZ
+        Senior Software Engineer
+        Email: chris.rodriguez@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.0+ years of experience in full-stack development.
+        Specializing in C++, Angular, Flask. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: C++, Angular, Flask
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC038,Nicole Garcia,nicole.garcia@email.com,6.7,65.8,67.9,66.8,Consider,Average,71.6,72.6,61.0,"['Angular', 'Java', 'Node.js', 'React', 'Flask', 'JavaScript']","['Terraform', 'Google Cloud', 'Kubernetes', 'Docker']","['PostgreSQL', 'SQL', 'NumPy', 'Elasticsearch', 'PyTorch']","['Communication', 'Adaptability', 'Innovation', 'Problem Solving']","{'Openness': 50.3, 'Conscientiousness': 76.9, 'Extraversion': 52.9, 'Agreeableness': 66.0, 'Neuroticism': 81.0}","
+        NICOLE GARCIA
+        Senior Software Engineer
+        Email: nicole.garcia@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 6.7+ years of experience in full-stack development.
+        Specializing in Angular, Java, Node.js. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Angular, Java, Node.js, React, Flask, JavaScript
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC039,Michael White,michael.white@email.com,5.3,91.7,96.9,80.7,Highly Recommended,Top 20%,87.3,91.8,86.8,"['Java', 'C++', 'Flask']","['Kubernetes', 'Jenkins', 'Terraform']","['Pandas', 'Redis', 'PostgreSQL', 'NumPy']","['Innovation', 'Communication', 'Teamwork', 'Adaptability']","{'Openness': 78.0, 'Conscientiousness': 92.4, 'Extraversion': 95.1, 'Agreeableness': 67.8, 'Neuroticism': 71.9}","
+        MICHAEL WHITE
+        Senior Software Engineer
+        Email: michael.white@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 5.3+ years of experience in full-stack development.
+        Specializing in Java, C++, Flask. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Java, C++, Flask
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC040,Ashley Garcia,ashley.garcia@email.com,6.7,84.7,92.1,94.0,Neural Highly Recommended,Top 10%,89.1,80.7,78.0,"['Python', 'JavaScript', 'Vue.js', 'Angular', 'Django']","['Docker', 'Jenkins']","['SQL', 'NumPy']","['Adaptability', 'Leadership', 'Problem Solving']","{'Openness': 66.0, 'Conscientiousness': 72.6, 'Extraversion': 74.1, 'Agreeableness': 78.0, 'Neuroticism': 74.6}","
+        ASHLEY GARCIA
+        Senior Software Engineer
+        Email: ashley.garcia@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 6.7+ years of experience in full-stack development.
+        Specializing in Python, JavaScript, Vue.js. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Python, JavaScript, Vue.js, Angular, Django
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC041,Sarah Walker,sarah.walker@email.com,3.9,73.7,60.0,75.9,Consider,Top 50%,76.5,83.9,64.4,"['Vue.js', 'Angular', 'Flask', 'JavaScript']","['Docker', 'Kubernetes', 'AWS']","['SQL', 'TensorFlow', 'Elasticsearch', 'Redis']","['Problem Solving', 'Teamwork', 'Communication']","{'Openness': 82.5, 'Conscientiousness': 100, 'Extraversion': 87.4, 'Agreeableness': 72.0, 'Neuroticism': 74.6}","
+        SARAH WALKER
+        Senior Software Engineer
+        Email: sarah.walker@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 3.9+ years of experience in full-stack development.
+        Specializing in Vue.js, Angular, Flask. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Vue.js, Angular, Flask, JavaScript
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC042,Michael Davis,michael.davis@email.com,10.9,96.5,97.5,90.2,Neural Highly Recommended,Top 10%,90.1,84.2,68.0,"['JavaScript', 'Django', 'React', 'Python', 'Java', 'Vue.js']","['Azure', 'Kubernetes', 'Docker']","['SQL', 'Redis', 'Elasticsearch', 'PostgreSQL', 'Pandas']","['Communication', 'Innovation', 'Adaptability', 'Teamwork']","{'Openness': 79.1, 'Conscientiousness': 100, 'Extraversion': 63.8, 'Agreeableness': 71.9, 'Neuroticism': 58.0}","
+        MICHAEL DAVIS
+        Senior Software Engineer
+        Email: michael.davis@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 10.9+ years of experience in full-stack development.
+        Specializing in JavaScript, Django, React. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: JavaScript, Django, React, Python, Java, Vue.js
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC043,Amanda Davis,amanda.davis@email.com,1.3,83.4,84.7,85.7,Highly Recommended,Top 15%,90.2,101.7,61.8,"['Node.js', 'Flask', 'Angular']","['Docker', 'AWS']","['Redis', 'PostgreSQL', 'Elasticsearch', 'NumPy']","['Teamwork', 'Adaptability', 'Communication', 'Leadership', 'Problem Solving']","{'Openness': 73.1, 'Conscientiousness': 94.8, 'Extraversion': 72.2, 'Agreeableness': 73.3, 'Neuroticism': 49.5}","
+        AMANDA DAVIS
+        Senior Software Engineer
+        Email: amanda.davis@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 1.3+ years of experience in full-stack development.
+        Specializing in Node.js, Flask, Angular. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Node.js, Flask, Angular
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC044,Alex Martinez,alex.martinez@email.com,7.1,65.2,69.2,67.2,Consider,Average,72.9,90.5,59.0,"['Vue.js', 'Flask', 'Angular', 'Node.js']","['Azure', 'Kubernetes', 'AWS']","['PyTorch', 'NumPy', 'SQL', 'MongoDB', 'Redis']","['Adaptability', 'Teamwork', 'Leadership']","{'Openness': 72.5, 'Conscientiousness': 41.8, 'Extraversion': 69.0, 'Agreeableness': 47.0, 'Neuroticism': 56.9}","
+        ALEX MARTINEZ
+        Senior Software Engineer
+        Email: alex.martinez@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 7.1+ years of experience in full-stack development.
+        Specializing in Vue.js, Flask, Angular. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Vue.js, Flask, Angular, Node.js
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC045,Jennifer Kumar,jennifer.kumar@email.com,3.1,86.4,72.1,80.7,Recommended,Top 30%,73.0,87.8,74.8,"['Node.js', 'Flask', 'React', 'C++', 'Python']","['Azure', 'Terraform']","['PostgreSQL', 'Redis', 'NumPy', 'SQL', 'Pandas']","['Leadership', 'Adaptability', 'Innovation', 'Problem Solving']","{'Openness': 69.3, 'Conscientiousness': 87.1, 'Extraversion': 82.6, 'Agreeableness': 83.9, 'Neuroticism': 69.6}","
+        JENNIFER KUMAR
+        Senior Software Engineer
+        Email: jennifer.kumar@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 3.1+ years of experience in full-stack development.
+        Specializing in Node.js, Flask, React. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Node.js, Flask, React, C++, Python
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC046,John Wilson,john.wilson@email.com,6.4,80.8,69.2,88.1,Recommended,Top 30%,77.8,72.9,66.5,"['Django', 'Vue.js', 'JavaScript', 'Flask', 'React', 'Java']","['Jenkins', 'Kubernetes']","['TensorFlow', 'MongoDB']","['Innovation', 'Leadership', 'Adaptability', 'Problem Solving']","{'Openness': 91.3, 'Conscientiousness': 75.9, 'Extraversion': 66.1, 'Agreeableness': 75.9, 'Neuroticism': 80.2}","
+        JOHN WILSON
+        Senior Software Engineer
+        Email: john.wilson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 6.4+ years of experience in full-stack development.
+        Specializing in Django, Vue.js, JavaScript. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Django, Vue.js, JavaScript, Flask, React, Java
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC047,Matthew Walker,matthew.walker@email.com,2.0,87.0,100.0,98.0,Neural Highly Recommended,Top 10%,97.9,94.7,89.3,"['Node.js', 'Java', 'Vue.js', 'Django', 'Flask', 'Python']","['Google Cloud', 'AWS', 'Jenkins', 'Azure']","['Pandas', 'PostgreSQL']","['Communication', 'Problem Solving', 'Leadership', 'Teamwork']","{'Openness': 50.9, 'Conscientiousness': 92.3, 'Extraversion': 89.7, 'Agreeableness': 64.5, 'Neuroticism': 65.5}","
+        MATTHEW WALKER
+        Senior Software Engineer
+        Email: matthew.walker@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 2.0+ years of experience in full-stack development.
+        Specializing in Node.js, Java, Vue.js. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Node.js, Java, Vue.js, Django, Flask, Python
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC048,Michael Wilson,michael.wilson@email.com,6.0,89.4,76.9,83.6,Highly Recommended,Top 25%,84.8,80.6,72.1,"['Django', 'Flask', 'Python', 'JavaScript', 'Java', 'Node.js']","['Jenkins', 'Terraform']","['Elasticsearch', 'PyTorch']","['Innovation', 'Teamwork', 'Adaptability', 'Leadership']","{'Openness': 67.5, 'Conscientiousness': 87.2, 'Extraversion': 92.2, 'Agreeableness': 81.8, 'Neuroticism': 100}","
+        MICHAEL WILSON
+        Senior Software Engineer
+        Email: michael.wilson@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 6.0+ years of experience in full-stack development.
+        Specializing in Django, Flask, Python. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Django, Flask, Python, JavaScript, Java, Node.js
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC049,John Harris,john.harris@email.com,0.5,92.9,97.6,100.0,Neural Highly Recommended,Top 5%,110.0,74.8,65.2,"['Python', 'C++', 'React', 'Java']","['Google Cloud', 'Kubernetes', 'Docker']","['NumPy', 'Redis', 'Pandas', 'TensorFlow']","['Teamwork', 'Innovation', 'Leadership', 'Communication']","{'Openness': 80.5, 'Conscientiousness': 89.1, 'Extraversion': 53.2, 'Agreeableness': 100, 'Neuroticism': 96.8}","
+        JOHN HARRIS
+        Senior Software Engineer
+        Email: john.harris@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 0.5+ years of experience in full-stack development.
+        Specializing in Python, C++, React. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Python, C++, React, Java
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "
+QC050,Amanda Lewis,amanda.lewis@email.com,0.5,90.3,99.4,96.5,Neural Highly Recommended,Top 5%,89.2,62.6,69.7,"['Flask', 'Vue.js', 'Django', 'Python', 'C++', 'JavaScript']","['AWS', 'Docker']","['TensorFlow', 'PostgreSQL', 'Elasticsearch']","['Teamwork', 'Problem Solving', 'Communication', 'Adaptability']","{'Openness': 96.1, 'Conscientiousness': 82.1, 'Extraversion': 78.0, 'Agreeableness': 91.6, 'Neuroticism': 57.6}","
+        AMANDA LEWIS
+        Senior Software Engineer
+        Email: amanda.lewis@email.com
+        
+        PROFESSIONAL SUMMARY
+        Experienced software engineer with 0.5+ years of experience in full-stack development.
+        Specializing in Flask, Vue.js, Django. Proven track record of delivering scalable solutions
+        and leading high-performance development teams.
+        
+        TECHNICAL SKILLS
+        • Programming: Flask, Vue.js, Django, Python, C++, JavaScript
+        • Cloud Platforms: AWS, Azure, Google Cloud Platform
+        • DevOps: Docker, Kubernetes, Jenkins, CI/CD
+        • Databases: PostgreSQL, MongoDB, Redis
+        
+        EXPERIENCE
+        Senior Software Engineer | TechCorp Inc. | 2020 - Present
+        • Led development of microservices architecture serving millions of users
+        • Implemented machine learning models improving system performance by 20%
+        • Mentored junior developers and established coding best practices
+        "

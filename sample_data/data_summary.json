@@ -1,0 +1,19 @@
+{
+  "generation_date": "2025-05-31T10:02:53.036564",
+  "candidates_count": 50,
+  "employees_count": 100,
+  "departments": [
+    "Sales",
+    "HR",
+    "Design",
+    "Engineering",
+    "Marketing",
+    "Operations",
+    "Product",
+    "Finance"
+  ],
+  "avg_neural_match_score": 79.26,
+  "avg_quantum_engagement": 74.87700000000001,
+  "high_risk_employees": 10,
+  "top_candidates": 10
+}

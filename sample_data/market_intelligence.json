@@ -1,0 +1,40 @@
+{
+  "talent_scarcity_index": {
+    "Python": 85,
+    "JavaScript": 72,
+    "React": 78,
+    "AWS": 82,
+    "Machine Learning": 91,
+    "DevOps": 79,
+    "Data Science": 88
+  },
+  "salary_benchmarks": {
+    "Junior Developer": {
+      "min": 65000,
+      "avg": 75000,
+      "max": 85000
+    },
+    "Senior Developer": {
+      "min": 95000,
+      "avg": 115000,
+      "max": 135000
+    },
+    "Lead Engineer": {
+      "min": 125000,
+      "avg": 145000,
+      "max": 165000
+    },
+    "Engineering Manager": {
+      "min": 140000,
+      "avg": 165000,
+      "max": 190000
+    }
+  },
+  "demand_trends": {
+    "AI/ML": "Very High",
+    "Cloud Native": "High",
+    "DevOps": "High",
+    "Full Stack": "Medium",
+    "Mobile Development": "Medium"
+  }
+}
